@@ -1,0 +1,11 @@
+.done{
+    text-decoration: line-through;
+    color: gray;
+}
+
+table {
+    width: 400px;
+    text-align: center;
+    border: 1px  solid black;
+    margin-top: 30px;
+}
